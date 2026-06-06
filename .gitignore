@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Word temp files
+~$*.docx
+~$*.doc
+
+# Reports / generated docs (keep source scripts, not output files)
+*.docx
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
